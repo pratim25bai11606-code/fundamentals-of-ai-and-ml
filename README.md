@@ -52,3 +52,18 @@ Number of stops
 Travel time
 
 It learns the relationship between these features and predicts travel time for given routes.
+⚠️ Limitations
+Dataset is manually created
+Does not include real-time traffic data
+Limited number of routes
+🔮 Future Improvements
+Add real-world transport data
+Integrate live traffic updates
+Convert into web or mobile application
+Add map visualization
+Improve prediction accuracy with larger dataset
+📚 Learnings
+Basics of Machine Learning
+Working with Linear Regression
+Data handling using pandas
+Building real-world problem-solving applications
