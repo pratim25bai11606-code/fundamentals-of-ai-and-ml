@@ -1,2 +1,2 @@
 # fundamentals-of-ai-and-ml
-This project applies fundamentals of AI and Machine Learning to develop a smart transport route recommender. It uses basic models to analyze route data and predict optimal paths and travel time. The system demonstrates how ML techniques can solve real-world problems by improving decision-making and user convenience.
+I implemented a Linear Regression model in Python to predict travel time based on distance and number of stops. The dataset is defined within the program, and the model selects the best route with minimum predicted time
